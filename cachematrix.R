@@ -1,4 +1,4 @@
-## This is the solution to the ProgrammingAssignment 2 
+## This is the solution to the ProgrammingAssignment 2 for Peer Evaluation
 ## Put comments here that give an overall description of what your
 ## functions do
 
