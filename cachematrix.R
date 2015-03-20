@@ -1,3 +1,4 @@
+## This is the solution to the ProgrammingAssignment 2 
 ## Put comments here that give an overall description of what your
 ## functions do
 
