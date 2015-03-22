@@ -2,8 +2,8 @@
 
 ## Creates a matric-inverse object which can be cached to reduce the overhead of calculation every time its required
 
-## Usage Example : 	M <- matrix(c(1, 2, 3, 4), nrow=2, ncol=2)
-##                 	cacheMatrix <- makeCacheMatrix(M)
+## Usage Example : 	MyMatrix <- matrix(c(1, 2, 3, 4), nrow=2, ncol=2)
+##                 	cacheMatrix <- makeCacheMatrix(MyMatrix)
 ##					cacheSolve(cacheMatrix)
 
 ## Create a cacheMatrix object
