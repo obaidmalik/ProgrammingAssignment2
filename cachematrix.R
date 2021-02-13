@@ -28,6 +28,7 @@ makeCacheMatrix <- function(x = matrix()) {
 ## Please ignore this comment - just for demo
 ## Adding a comment for the demo
 ## Adding a comment for the agilesession branch demo
+## Adding a second comment for the agilesession branch
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
